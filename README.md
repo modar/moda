@@ -1,4 +1,4 @@
 moda
 ====
 
-MissionOrientedDistributedArchitecture
+Mission Oriented Distributed Architecture
